@@ -1,0 +1,184 @@
+body {
+  background-image: url("SoloFondo.png");
+  background-size: cover;
+}
+
+.navbar {
+  margin: 0 auto;
+}
+
+.a {
+  color: white;
+  text-decoration: none;
+}
+
+.CC {
+  height: 200px;
+  width: 300px;
+}
+
+@media (max-width: 500px) {
+  .CC {
+    height: 70px;
+    width: 150px;
+  }
+  li {
+    font-size: 10px;
+  }
+  .muska-tabla {
+    height: 600px;
+    width: 300px;
+  }
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+  color: white;
+}
+
+.Banner {
+  background-image: url("Avocado and bacon burger.jpg");
+}
+
+.display-3, .lead {
+  color: white;
+}
+
+.link-ab-1 {
+  color: black;
+}
+
+.pd1 {
+  color: white;
+}
+
+.pdp {
+  color: white;
+  text-align: center;
+}
+
+.titulo-bs {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.pd-ab {
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+.pd-cf {
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+#destacado-1 {
+  border-style: solid;
+  border-color: #7f3035;
+  border-radius: 10px;
+  background-color: #bfd9d8;
+  margin: 10px;
+}
+
+#destacado-2 {
+  border-style: solid;
+  border-color: #7f3035;
+  border-radius: 10px;
+  background-color: #bfd9d8;
+  margin: 10px;
+}
+
+#destacado-3 {
+  border-style: solid;
+  border-color: #7f3035;
+  border-radius: 10px;
+  background-color: #bfd9d8;
+  margin: 10px;
+}
+
+#destacado-4 {
+  border-style: solid;
+  border-color: #7f3035;
+  border-radius: 10px;
+  background-color: #bfd9d8;
+  margin: 10px;
+}
+
+.pd-mb {
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+.pd-ib {
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+.learn-pd, .learn-au, .register-link-home {
+  background-color: #bfd9d8;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+.avocado-bacon-img {
+  width: 700px;
+  height: 400px;
+}
+
+.contact-text {
+  color: white;
+}
+
+.contact-image {
+  width: 400px;
+}
+
+.contact-home {
+  margin-top: 100px;
+}
+
+.about-us-home {
+  margin-top: 100px;
+}
+
+.about-us-text {
+  text-align: center;
+  color: white;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.vintage-restaurant-1, .vintage-restaurant-2 {
+  width: 400px;
+  height: 400px;
+}
+
+.imagen-unica {
+  margin-top: 100px;
+}
+
+.pareja-home {
+  height: 400px;
+  width: 300px;
+}
+
+.register-texto {
+  color: white;
+}
+
+.footer-home {
+  background-color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.contact-info-home {
+  color: white;
+}
+/*# sourceMappingURL=Home.css.map */
