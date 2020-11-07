@@ -1,0 +1,92 @@
+body {
+    background-image: url("SoloFondo.png");
+    background-size: cover;
+  }
+  
+  .navbar {
+    margin: 0 auto;
+  }
+  
+  .CC {
+    height: 200px;
+    width: 300px;
+  }
+
+  .best-sellers-heading{
+      color: white;
+  }
+
+  .navbar-ul li {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+  }
+
+  @media (max-width: 500px) {
+    .CC {
+      height: 70px;
+      width: 150px;
+    }
+    li {
+      font-size: 10px;
+    }
+
+    .producto-imagen{
+        height: 400px;
+        width: 350px;
+    }
+    
+  }
+
+  .footer-home{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-container{
+    background-color: black;
+}
+
+.contact-info-home{
+    color: white;
+}
+
+.nav-menu{
+    background-color:#bfd9d8;
+}
+
+.nav-menu-ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+li{
+    color:white;
+    
+}
+
+.a{
+    color:white;
+    text-decoration: none;
+}
+
+.b{
+    color:black;
+    text-decoration: none;
+}
+
+h1, p, h4{
+    color: white;
+}
+
+img{
+    height: 400px;
+}
+
+.questions{
+    background-color: thistle;
+    height: 30px;
+    border-radius: 5px;
+    
+}
