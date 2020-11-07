@@ -1,0 +1,139 @@
+body {
+    background-image: url("SoloFondo.png");
+    background-size: cover;
+  }
+  
+  .navbar {
+    margin: 0 auto;
+  }
+  
+  .CC {
+    height: 200px;
+    width: 300px;
+  }
+
+  .best-sellers-heading{
+      color: white;
+  }
+
+  .navbar-ul li {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+  }
+
+  @media (max-width: 500px) {
+    .CC {
+      height: 70px;
+      width: 150px;
+    }
+    li {
+      font-size: 10px;
+    }
+
+    .producto-imagen{
+        height: 400px;
+        width: 350px;
+    }
+    
+  }
+
+  .footer-home{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-container{
+    background-color: black;
+}
+
+.contact-info-home{
+    color: white;
+}
+
+.nav-menu{
+    background-color:#bfd9d8;
+}
+
+.nav-menu-ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+li{
+    color:white;
+    
+}
+
+.a{
+    color:white;
+    text-decoration: none;
+}
+
+.b{
+    color:black;
+    text-decoration: none;
+}
+
+h1, h4{
+    color: white;
+}
+
+p{
+    color: black;
+}
+
+.dropdowns{
+    margin-bottom: 400px;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #9479b2;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {background-color: #9479b2;}
+
+  .pregunta{
+      padding: 50px;
+  }
+
+  .titulo-preguntas{
+      background-color: #9479b2;
+  }
