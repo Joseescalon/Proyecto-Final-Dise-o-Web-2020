@@ -1,0 +1,147 @@
+body {
+    background-image: url("SoloFondo.png");
+    background-size: cover;
+  }
+  
+  .navbar {
+    margin: 0 auto;
+  }
+  
+  .CC {
+    height: 200px;
+    width: 300px;
+  }
+
+ .a{
+     color: white;
+     text-decoration: none;
+ }
+
+ .b{
+     color: black;
+     text-decoration: none;
+ }
+
+  .navbar-ul li {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+  }
+
+  @media (max-width: 500px) {
+    .CC {
+      height: 70px;
+      width: 150px;
+    }
+    li {
+      font-size: 10px;
+    }
+    
+  }
+
+  h1, h3{
+      color: white;
+  }
+
+  .footer-home{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-container{
+    background-color: black;
+}
+
+.contact-info-home{
+    color: white;
+}
+
+.nav-menu{
+    background-color:#bfd9d8;
+}
+
+.nav-menu-ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+li{
+    color:black;
+    
+}
+
+.titulo-bs{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pd-ab{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.pd-ab-ingredients{
+    font-size: 10px;
+    list-style: square;
+}
+
+.pd-ab-ingredietns li{
+    display: block;
+}
+
+.pd-cf{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+#producto-1{
+    border-style: solid;
+    border-color: #7f3035;
+    border-radius: 10px;
+    background-color:#bfd9d8 ;
+    margin: 10px;
+}
+
+#producto-2{
+    border-style: solid;
+    border-color: #7f3035;
+    border-radius: 10px;
+    background-color:#bfd9d8 ;
+    margin: 10px;
+}
+
+#producto-3{
+    border-style: solid;
+    border-color: #7f3035;
+    border-radius: 10px;
+    background-color:#bfd9d8 ;
+    margin: 10px;
+}
+
+#producto-4{
+    border-style: solid;
+    border-color: #7f3035;
+    border-radius: 10px;
+    background-color:#bfd9d8 ;
+    margin: 10px; 
+}
+
+.pd-mb{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.pd-ib{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.boton-create{
+    background-color: thistle;
+    border-radius: 5px;
+}
