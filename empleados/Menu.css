@@ -1,0 +1,187 @@
+body {
+    background-image: url("SoloFondo.png");
+    background-size: cover;
+  }
+  
+  .navbar {
+    margin: 0 auto;
+  }
+  
+  .CC {
+    height: 200px;
+    width: 300px;
+  }
+
+  .best-sellers-heading{
+      color: white;
+  }
+
+  .navbar-ul li {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+  }
+
+  @media (max-width: 500px) {
+    .CC {
+      height: 70px;
+      width: 150px;
+    }
+    li {
+      font-size: 10px;
+    }
+    
+  }
+
+  .footer-home{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-container{
+    background-color: black;
+}
+
+.contact-info-home{
+    color: white;
+}
+
+.nav-menu{
+    background-color:#bfd9d8;
+}
+
+.nav-menu-ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+li{
+    color:black;
+    
+}
+
+.a{
+    color:white;
+    text-decoration: none;
+}
+
+.b{
+    color:black;
+    text-decoration: none;
+}
+
+.titulo-bs{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pd-ab{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.pd-ab-ingredients{
+    font-size: 10px;
+    list-style: square;
+    display: block;
+}
+
+.pd-ab-ingredietns li{
+    display: block;
+}
+
+.pd-cf{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+#destacado-1{
+    border-style: solid;
+    border-color: #7f3035;
+    border-radius: 10px;
+    background-color:#bfd9d8 ;
+    margin: 10px;
+}
+
+#destacado-2{
+    border-style: solid;
+    border-color: #7f3035;
+    border-radius: 10px;
+    background-color:#bfd9d8 ;
+    margin: 10px;
+}
+
+#destacado-3{
+    border-style: solid;
+    border-color: #7f3035;
+    border-radius: 10px;
+    background-color:#bfd9d8 ;
+    margin: 10px;
+}
+
+#destacado-4{
+    border-style: solid;
+    border-color: #7f3035;
+    border-radius: 10px;
+    background-color:#bfd9d8 ;
+    margin: 10px; 
+}
+
+.pd-mb{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.pd-ib{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.crate-drink{
+    background-color: #9479b2;
+    border-radius: 5px;
+}
+
+.check-out{
+    background-color: #9479b2;
+    border-radius: 5px;
+
+}
+
+.orders-titulo{
+    background-color: #bfd9d8;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.order{
+    background-color: #7f3035;
+    border-radius: 5px;
+}
+
+.order-2{
+    background-color:#bfd9d8 ;
+    border-radius: 5px;
+}
+
+.order, .order-2{
+    margin: 10px;
+    padding: 5px;
+}
+
+.datos{
+    background-color: #9479b2;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.confirm-order{
+    background-color: #9479b2;
+    border-radius: 5px;
+    margin: 10px;
+}
