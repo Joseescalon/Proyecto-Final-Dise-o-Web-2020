@@ -1,0 +1,88 @@
+body {
+    background-image: url("SoloFondo.png");
+    background-size: cover;
+  }
+  
+  .navbar {
+    margin: 0 auto;
+  }
+  
+  .CC {
+    height: 200px;
+    width: 300px;
+  }
+
+  .navbar-ul li {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+  }
+
+  @media (max-width: 500px) {
+    .CC {
+      height: 70px;
+      width: 150px;
+    }
+    li {
+      font-size: 10px;
+    }
+    
+  }
+
+  .footer-home{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-container{
+    background-color: black;
+}
+
+.contact-info-home{
+    color: white;
+}
+
+.nav-menu{
+    background-color:#bfd9d8;
+}
+
+.nav-menu-ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+li{
+    color:black;
+    
+}
+
+.construction-1{
+  height: 300px;
+  width: 100%;
+}
+
+h2, p{
+  color: white;
+}
+
+.container{
+  padding: 20px;
+}
+
+.texto{
+  background-color: #7f3035;
+}
+
+.a{
+  color: white;
+}
+
+.ultimo-contenedor{
+  background-color: #bfd9d8;
+}
+
+.ultimo-titulo{
+  color: black;
+  text-align: center;
+}
